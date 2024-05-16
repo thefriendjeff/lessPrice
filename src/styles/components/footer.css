@@ -1,0 +1,36 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer img {
+    display: flex;
+    position: inherit;
+    width: 100%;
+}
+
+.footer h2 {
+    color: #191414;
+    font-size: 50px;
+}
+
+.footer button {
+    width: 100%;
+    padding: 1rem;
+    border-radius:2rem;
+    border: 5px solid #2B3C5B;
+    background-color: #171f2f;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.download {
+    padding-top: 25rem;
+    margin-bottom: 5rem;
+}
+
+.footer p {
+    margin-bottom: 2rem;
+}

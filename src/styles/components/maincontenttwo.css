@@ -1,0 +1,48 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #2B3C5B;
+    z-index: 3;
+    padding: 10rem;
+    overflow-x: hidden;
+}
+.content h2 {
+    display: block;
+    text-align: center;
+    font-size: 60px;
+    color: #f9f9f9;
+}
+.crew {
+    padding-top: 10rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.brands {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    margin: 2rem;
+    width: 150px;
+    height: 150px;
+    background-color: #fff;
+
+}
+.brands img {
+    display: flex;
+    width: 100px;
+}
+
+.logo {
+    display: flex;
+    width: 20%;
+    padding-bottom: 5rem;
+}
+
+#assai {
+    border-radius: 1rem;
+}
+

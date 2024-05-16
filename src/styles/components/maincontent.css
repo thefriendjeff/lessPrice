@@ -1,0 +1,76 @@
+.main {
+    display:relative;
+    flex-direction: column;
+    background-color: #191414;
+    z-index: 2;
+    padding: 10rem;
+}
+.one {
+    justify-content: center;
+    align-items: center;
+}
+.one h2 {
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    color: #f9f9f9;
+}
+.one p {
+    display: block;
+    padding-top: 2rem;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    color: #f9f9f9;
+}
+.reasons ul {
+    display: flex;
+    flex-direction: row;
+    
+    list-style: none;
+    padding: 5rem 3rem;
+}
+.reasons li {
+    color: #f9f9f9;
+    text-align: center;
+}
+.reasons h3 {
+    color: #b7c9d4;
+    margin-bottom: 1rem;
+}
+.advantages {
+    display: flex;
+    flex-direction: row;
+}
+.two {
+    padding-top: 3rem;
+}
+.two h2 {
+    padding-top: 15rem;
+    font-size: 50px;
+    color: #f9f9f9;
+}
+.two img {
+    width: 80%;
+}
+
+.three {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    padding-top: 3rem;
+}
+
+.three h2 {
+    display: block;
+    text-align: center;
+    font-size: 80px;
+    color: #f9f9f9;
+}
+
+.three p {
+    color: #f9f9f9;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 2rem;
+}

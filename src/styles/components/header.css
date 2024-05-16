@@ -1,0 +1,30 @@
+h2 {
+    font-size: 18px;
+}
+.navbar {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    height: 3rem;
+    padding-left:2rem;
+    color: #f9f9f9;
+}
+.navbar-nav {
+    display: flex;
+    padding-left: 60rem;
+    font-weight:bold;
+}
+.navbar .nav-item {
+    list-style: none;
+}
+.navbar .nav-link{
+    text-decoration: none;
+    padding-right: 2rem;
+    color: #f9f9f9;
+}
+video {
+    display:block;
+    width: 100%;
+}
