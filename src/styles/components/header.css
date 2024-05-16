@@ -23,6 +23,7 @@ h2 {
     text-decoration: none;
     padding-right: 2rem;
     color: #f9f9f9;
+    cursor: pointer;
 }
 video {
     display:block;
